@@ -1,1 +1,0 @@
-/usr/bin/c++ "CMakeFiles/Cpp-Software-Design.dir/Main.cpp.o" -o Cpp-Software-Design
