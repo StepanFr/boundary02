@@ -1,0 +1,3 @@
+/home/stepik/timp/projects/boundary02/_build/CMakeFiles/Cpp-Software-Design.dir
+/home/stepik/timp/projects/boundary02/_build/CMakeFiles/edit_cache.dir
+/home/stepik/timp/projects/boundary02/_build/CMakeFiles/rebuild_cache.dir
