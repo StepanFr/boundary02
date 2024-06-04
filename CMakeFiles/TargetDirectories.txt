@@ -1,2 +1,0 @@
-/home/stepik/timp/projects/boundary02/CMakeFiles/edit_cache.dir
-/home/stepik/timp/projects/boundary02/CMakeFiles/rebuild_cache.dir
