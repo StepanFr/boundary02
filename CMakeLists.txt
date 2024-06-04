@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(SOURCES
-    G26_CRTP_2.cpp
+    Main.cpp
 )
 
 add_executable(Cpp-Software-Design ${SOURCES})
